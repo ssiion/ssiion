@@ -1,6 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=sisology&fontSize=90" />
 <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🍀 </h2>  
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> HELLO! ☘️ </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> 배움과 적용을 즐거워합니다🌼</li><li> 도움과 공유를 즐겨합니다🤝</li><li> 좋은 개발자가 되려합니다☺️ </div> 
+    <br/>
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
@@ -19,10 +21,5 @@
           <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
           </div>
     </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
-    <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=sisology&custom_title=sisology's Github Stat&bg_color=180,00000000,00364a&title_color=ffffff&text_color=ffffff" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sisology&layout=compact&bg_color=180,00000000,00364a&title_color=ffffff&text_color=ffffff" />
-    </div>
 </div>
+
