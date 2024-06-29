@@ -40,8 +40,9 @@
     </div>
     <br/>
     <h2 style="color: #c9d1d9; margin-bottom: 0; border-bottom: none;">📊 Stats</h2>
-    <div align="center" style="display: flex; justify-content: center; margin-top: 0; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=sisology&show_icons=true&theme=tokyonight" alt="sisology's GitHub Stats" style="flex: 1 1 100px; height: 200px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sisology&layout=compact&theme=tokyonight" alt="Most Used Languages" style="flex: 1 1 100px; height: 200px;" />
+    <div align="center" style="display: flex; justify-content: center; margin-top: 0;">
+    <img src="https://github-readme-stats.vercel.app/api?username=sisology&show_icons=true&theme=tokyonight" alt="sisology's GitHub Stats" style="height: 200px; width: 37%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sisology&layout=compact&theme=tokyonight" alt="Most Used Languages" style="height: 200px; width: 33%;" />
 </div>
+
 </div>
