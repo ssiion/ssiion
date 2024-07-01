@@ -2,11 +2,11 @@
 <div style="text-align: center;"> 
     <h2 style="color: #c9d1d9; margin-bottom: 50px; border-bottom: none;">틈 사이를 고민하는 개발자 🧐</h2>  
     <div style="font-weight: 700; font-size: 15px; color: #c9d1d9;"> 
-        <h4> 반갑습니다.<br/>신입 개발자 최시온입니다!</h4>
-        <h4> 저는 기술을 구현할 뿐만 아니라, 사용자와 기술 사이의 간격을 가까이 연결하고 싶습니다.<br/> 앞으로 개발자로서 마주하는 여러 틈을 고민하며 계속해서 좋은 개발자가 되어가려 합니다 :) </h4>
-        <h4> I am Sion Choi, a developer who not only implements technology<br/>but also links the gap between users and technology more closely.
-        <br/>As a developer, I will continue to ponder the various gaps <br/>I encounter and strive to become a better developer.🐥
-</h4>
+        <br/><p> 반갑습니다.<br/>신입 개발자 최시온입니다!</p>
+        <p> 저는 기술을 구현할 뿐만 아니라, 사용자와 기술 사이의 간격을 가까이 연결하고 싶습니다.<br/> 앞으로 개발자로서 마주하는 여러 틈을 고민하며 계속해서 좋은 개발자가 되어가려 합니다 :) </p>
+        <p> I am Sion Choi, a developer who not only implements technology<br/>but also links the gap between user and technology more closely.
+        <br/>As a developer, I focus on reducing the various gap between user and technology.<br/>I’m keep trying to become a good developer.<br/><br/>Thanks.🐥
+        </p><br/>
     </div>
     <h2>🛠️ Tech Stacks</h2>
     <div style="margin-top: 0;">
