@@ -8,6 +8,9 @@
         <br/>As a developer, I focus on reducing the various gap between user and technology.<br/>I’m keep trying to become a good developer.<br/><br/>Thanks.🐥
         </p><br/>
     </div>
+    <a href="https://github.com/devxb/gitanimals">
+      <img src="https://render.gitanimals.org/farms/{sisology}"/>
+    </a>
     <h2>🛠️ Tech Stacks</h2>
     <div style="margin-top: 0;">
         <img src="https://img.shields.io/badge/Java-1572A9?style=for-the-badge&logo=openjdk&logoColor=white">
