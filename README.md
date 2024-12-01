@@ -9,7 +9,11 @@
         </p><br/>
     </div>
     <a href="https://github.com/devxb/gitanimals">
-      <img src="https://render.gitanimals.org/farms/{sisology}"/>
+        <img
+          src="https://render.gitanimals.org/farms/sisology"
+          width="600"
+          height="300"
+        />
     </a>
     <h2>🛠️ Tech Stacks</h2>
     <div style="margin-top: 0;">
