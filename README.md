@@ -2,11 +2,11 @@
 <div style="text-align: center;"> 
     <h2 style="color: #c9d1d9; margin-bottom: 50px; border-bottom: none;">틈 사이를 고민하는 개발자 🧐</h2>  
     <div style="font-weight: 700; font-size: 15px; color: #c9d1d9;"> 
-        <br/><p> 반갑습니다.<br/>신입 개발자 최시온입니다!</p>
-        <p> 저는 기술을 구현할 뿐만 아니라, 사용자와 기술 사이의 간격을 가까이 연결하고 싶습니다.<br/> 앞으로 개발자로서 마주하는 여러 틈을 고민하며 계속해서 좋은 개발자가 되어가려 합니다 :) </p>
-        <p> I am Sion Choi, a developer who not only implements technology<br/>but also links the gap between user and technology more closely.
-        <br/>As a developer, I focus on reducing the various gap between user and technology.<br/>I’m keep trying to become a good developer.<br/><br/>Thanks.🐥
-        </p><br/>
+        <br/><p>🫡 풀스택 개발 역량을 갖춘 AI 에이전트 개발자입니다.
+        </br>🧚 머신러닝/딥러닝 기술 심화를 통해 AI 활용 역량을 지속적으로 확장하고 있습니다.
+        </br>❄️ RAG 및 Prompt Engineering 실전 경험을 바탕으로 AI 시스템 최적화에 전문성을 갖추고 있습니다.
+        </br>🧵 AI 기술로 사용자 경험을 극대화하는 솔루션 설계에 깊은 관심을 가지고 있습니다.
+        </p></br>
     </div>
     <a href="https://github.com/devxb/gitanimals">
         <img
@@ -15,6 +15,7 @@
           height="300"
         />
     </a>
+    </br>
     <h2>🛠️ Tech Stacks</h2>
 <div style="margin-top: 0;">
     <img src="https://img.shields.io/badge/Java-1572A9?style=for-the-badge&logo=openjdk&logoColor=white">
