@@ -1,6 +1,6 @@
 <!--<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1b27,100:3c3d54&height=150&section=header&text=ILO&fontSize=50&fontColor=eff7f6&desc=Developer%20Considering%20Gaps&descAlign=50&descAlignY=70&descSize=20" />-->
 <div style="text-align: center;"> 
-    <h2 style="color: #c9d1d9; margin-bottom: 50px; border-bottom: none;">틈 사이를 고민하는 개발자 🧐</h2>  
+    <h3 style="color: #c9d1d9; margin-bottom: 50px; border-bottom: none;">AI agent / Full-stack developer</h3>  
     <div style="font-weight: 700; font-size: 15px; color: #c9d1d9;"> 
         <br/><p>🫡 풀스택 개발 역량을 갖춘 AI 에이전트 개발자입니다.
         </br>🧚 머신러닝/딥러닝 기술 심화를 통해 AI 활용 역량을 지속적으로 확장하고 있습니다.
@@ -31,6 +31,9 @@
     <img src="https://img.shields.io/badge/PostgreSQL-669bbc?style=for-the-badge&logo=PostgreSQL&logoColor=white">
     <img src="https://img.shields.io/badge/JPA-e9c46a?style=for-the-badge&logo=spring&logoColor=white">
     <img src="https://img.shields.io/badge/Hibernate-8d99ae?style=for-the-badge&logo=Hibernate&logoColor=white">
+    <br/>
+    <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white">
+    <img src="https://img.shields.io/badge/Supabase-38a3a5?style=for-the-badge&logo=Supabase&logoColor=white">
     <br/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
