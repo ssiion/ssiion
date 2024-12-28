@@ -1,6 +1,6 @@
 <!--<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1b27,100:3c3d54&height=150&section=header&text=ILO&fontSize=50&fontColor=eff7f6&desc=Developer%20Considering%20Gaps&descAlign=50&descAlignY=70&descSize=20" />-->
 <div style="text-align: center;"> 
-    <h3 style="color: #c9d1d9; margin-bottom: 50px; border-bottom: none;">AI agent / Full-stack developer</h3>  
+    <h2 style="color: #c9d1d9; margin-bottom: 50px; border-bottom: none;">AI agent / Full-stack developer</h2>  
     <div style="font-weight: 700; font-size: 15px; color: #c9d1d9;"> 
         <br/><p>🫡 풀스택 개발 역량을 갖춘 AI 에이전트 개발자입니다.
         </br>🧚 머신러닝/딥러닝 기술 심화를 통해 AI 활용 역량을 지속적으로 확장하고 있습니다.
