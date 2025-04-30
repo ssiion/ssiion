@@ -64,7 +64,7 @@
     <br/>
     <h2 style="color: #c9d1d9; margin-bottom: 0; border-bottom: none;">📊 Stats</h2>
     <div align="left" style="display: flex; justify-content: center; margin-top: 0;">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sisology&show_icons=true&theme=tokyonight" alt="sisology's GitHub Stats" style="height: 200px; width: 39%;" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sisology&layout=compact&theme=tokyonight" alt="Most Used Languages" style="height: 200px; width: 28%;" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ssiion&show_icons=true&theme=tokyonight" alt="ssiion's GitHub Stats" style="height: 200px; width: 39%;" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssiion&layout=compact&theme=tokyonight" alt="Most Used Languages" style="height: 200px; width: 28%;" />
     </div>
 </div>
